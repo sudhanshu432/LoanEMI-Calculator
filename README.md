@@ -1,4 +1,3 @@
-
 #  Loan EMI Calculator
 
 Welcome to our Loan EMI Calculator web app! 🚀
@@ -7,25 +6,36 @@ Have you ever wondered what your monthly loan payment will be for that new car, 
 
 ## Features
 
-- Calculate EMI for various types of loans.
-- Input loan amount, interest rate, and tenure.
-- Instantly see your monthly EMI amount.
-- Plan your budget and loan repayments with ease.
+- Calculate EMI for loans and mortgages with various interest rates and tenures.
+- Interactive user interface for inputting loan amount, interest rate, and tenure.
+- Real-time EMI calculation with instant results.
+- Clear and intuitive visualization of the loan amortization schedule.
+- Easily customizable to suit different loan scenarios.
+  
+## Technologies Used
+- Streamlit: A Python library for creating web apps.
+- Python: The core programming language used for the app's logic.
 
-
-## To Run the app
+## Usage
+1. Clone the repository.
+2. Install the required dependencies with pip install -r requirements.txt.
+3. Run the app with
 ```
 # Terminal
 streamlit run app.py
-
+```
+4. Input your loan details and calculate your EMI.
+```
 # quit
 ctrl-c
 ```
 
-## App 🔗 Link
+## Demo
 
-Link-> https://emicalculator.streamlit.app/
+Check out the live demo of the EMI Calculator here-> https://emicalculator.streamlit.app/
 
+## Contributing
+Contributions are welcome! Feel free to open issues or pull requests for improvements, bug fixes, or new features.
 ## Authors
 
 - Developed with ❤ by[@Sudhanshu Kumar](https://github.com/sudhanshu432)
