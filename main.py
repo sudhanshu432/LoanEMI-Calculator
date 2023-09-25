@@ -53,7 +53,7 @@ def main ():
         interest_rate = st.slider('VARIABLE INTEREST RATE %', 7.75, 0.25, 25.75)
 
         if st.form_submit_button('Calculate Monthly Installment'):
-            st.write('Your Monthly Installment for the loan of R'+str(principal)+ ' is R' +str(monthly_installment(principal,period,interest_rate)))
+            st.write('Your Monthly Installment for the loan of ₹ '+str(principal)+ ' is ₹ ' +str(monthly_installment(principal,period,interest_rate)))
     
 
 if __name__ =='__main__':
