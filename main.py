@@ -48,7 +48,7 @@ def main ():
     
     #using strimlit form to collect data from user
     with st.form('data_form', clear_on_submit=False):
-        principal = st.number_input('ENTER LOAN AMOUNT R')
+        principal = st.number_input('ENTER LOAN AMOUNT ₹')
         period = st.slider('LOAN TERM IN YEARS',1,20)
         interest_rate = st.slider('VARIABLE INTEREST RATE %', 7.75, 0.25, 25.75)
 
