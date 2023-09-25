@@ -44,7 +44,7 @@ footer:before{
 
 def main ():
     st.markdown(hide_menu,unsafe_allow_html=True)
-    st.title("Financial Calculator")
+    st.title("EMI Calculator")
     
     #using strimlit form to collect data from user
     with st.form('data_form', clear_on_submit=False):
