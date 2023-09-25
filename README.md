@@ -22,9 +22,13 @@ streamlit run app.py
 ctrl-c
 ```
 
+## App 🔗 Link
 
-## Screenshots
-![App Screenshot](https://github.com/sudhanshu432/LoanEMI-Calculator/blob/main/Financial%20Calculator.PNG)
+Link-> https://emicalculator.streamlit.app/
+
+## Authors
+
+- Developed with ❤ by[@Sudhanshu Kumar](https://github.com/sudhanshu432)
 
 ## Feedback
 
