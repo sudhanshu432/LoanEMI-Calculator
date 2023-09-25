@@ -25,9 +25,8 @@ Have you ever wondered what your monthly loan payment will be for that new car, 
 streamlit run app.py
 ```
 4. Input your loan details and calculate your EMI.
-5. 
+5. Quit
 ```
-# quit
 ctrl-c
 ```
 
